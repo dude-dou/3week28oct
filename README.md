@@ -61,7 +61,7 @@ The illustrated process
 
 ---
 
-# Separate Job Descriptions for Each Participant
+# Separate Job Descriptions for Each Participant (pre-onboard)
 
 ## Forward Translation
 
@@ -315,7 +315,7 @@ The illustrated process
 
 ---
 
-# For Individual
+# For Individual (onboard vers)
 
 ## Job Description for T1: Expert Translator
 
