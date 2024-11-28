@@ -13,8 +13,12 @@ Link:
 
 **Paper:** [https://doi.org/10.2147/JMDH.S419714](https://doi.org/10.2147/JMDH.S419714)
 
+The illustrated process
+
+![JMDH_A_419714_O_F0004g](https://github.com/user-attachments/assets/4d28935e-f0e8-4554-8228-f45dcc5abc1c)
+
 ---
-![JMDH_A_419714_O_F0004g](https://github.com/user-attachments/assets/4d28935e-f0e8-4554-8228-f45dcc5abc1c)# The 3-week plan
+# The 3-week plan
 ## Week 1: Forward Translation and Synthesis
 
 - **T1 (Translator Knowledgeable About the Construct):** Translate the original instrument (1 week).
