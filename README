@@ -11,7 +11,6 @@ Link:
 **Paper:** [https://doi.org/10.2147/JMDH.S419714](https://doi.org/10.2147/JMDH.S419714)
 
 ---
-![[../../Tổng hợp kiến thức Cử nhân/JMDH_A_419714_O_F0004g.jpg]] 
 # The 3-week plan
 ## Week 1: Forward Translation and Synthesis
 
