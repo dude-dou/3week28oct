@@ -59,6 +59,8 @@ The illustrated process
 | | **Field Testers** | Field Testing | Field Testing | 2-4 weeks | N/A | N/A | - Conduct field testing. <br> - Collect data. |
 | **Psychometric Validation** | **Statisticians** | Psychometric Validation | Psychometric Validation | 2-4 weeks | N/A | N/A | - Perform validation. <br> - Analyze properties. |
 
+`` Knowledgeable: Know the construct, Not Knowledgeable: Do not know the construct 
+
 ---
 
 # Separate Job Descriptions for Each Participant (pre-onboard)
